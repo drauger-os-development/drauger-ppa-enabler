@@ -1,13 +1,53 @@
 ChangelogURI: http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog
 
+Suite: strigoi
+RepositoryType: deb
+BaseURI: https://apt.draugeros.org
+MatchURI: apt.draugeros.org
+BaseURI-amd64: https://apt.draugeros.org
+MatchURI-amd64: apt.draugeros.org
+BaseURI-i386: https://apt.draugeros.org
+MatchURI-i386: apt.draugeros.org
+Description: Drauger OS 7.6 Strigoi
+Component: main
+CompDescription: Drauger OS main 7.6 Repo
+CompDescriptionLong: Drauger OS main 7.6 Repo
+
+Suite: strigoi-dev
+RepositoryType: deb
+BaseURI: https://apt.draugeros.org
+MatchURI: apt.draugeros.org
+BaseURI-amd64: https://apt.draugeros.org
+MatchURI-amd64: apt.draugeros.org
+BaseURI-i386: https://apt.draugeros.org
+MatchURI-i386: apt.draugeros.org
+Description: Drauger OS 7.6 Strigoi
+Component: main
+CompDescription: Drauger OS 7.6 Development Repo
+CompDescriptionLong: Drauger OS 7.6 Development Repo
+
+
+Suite: zombi-dev
+RepositoryType: deb
+BaseURI: https://apt.draugeros.org
+MatchURI: apt.draugeros.org
+BaseURI-amd64: https://apt.draugeros.org
+MatchURI-amd64: apt.draugeros.org
+BaseURI-i386: https://apt.draugeros.org
+MatchURI-i386: apt.draugeros.org
+Description: Drauger OS 7.5.1 Zombi
+Component: main
+CompDescription: Drauger OS 7.5.1 Development Repo
+CompDescriptionLong:Drauger OS 7.5.1 Development Repo
+
 Suite: zombi
 RepositoryType: deb
-BaseURI: https://draugeros.org/apt
-MatchURI: draugeros.org/apt
-BaseURI-amd64: https://draugeros.org/apt
-MatchURI-amd64: draugeros.org/apt
-BaseURI-i386: https://draugeros.org/apt
-MatchURI-i386: draugeros.org/apt
+BaseURI: https://apt.draugeros.org
+MatchURI: apt.draugeros.org
+BaseURI-amd64: https://apt.draugeros.org
+MatchURI-amd64: apt.draugeros.org
+BaseURI-i386: https://apt.draugeros.org
+MatchURI-i386: apt.draugeros.org
 Description: Drauger OS 7.5.1 Zombi
 Component: main
 CompDescription: Drauger OS main 7.5.1 Repo
@@ -15,12 +55,12 @@ CompDescriptionLong: Drauger OS main 7.5.1 Repo
 
 Suite: jiangshi
 RepositoryType: deb
-BaseURI: https://draugeros.org/apt
-MatchURI: draugeros.org/apt
-BaseURI-amd64: https://draugeros.org/apt
-MatchURI-amd64: draugeros.org/apt
-BaseURI-i386: https://draugeros.org/apt
-MatchURI-i386: draugeros.org/apt
+BaseURI: https://apt.draugeros.org
+MatchURI: apt.draugeros.org
+BaseURI-amd64: https://apt.draugeros.org
+MatchURI-amd64: apt.draugeros.org
+BaseURI-i386: https://apt.draugeros.org
+MatchURI-i386: apt.draugeros.org
 MirrorsFile-amd64: Draugeros.mirrors
 MirrorsFile-i386: Draugeros.mirrors
 Description: Drauger OS 7.4.1 Jiangshi

@@ -1,5 +1,57 @@
 ChangelogURI: http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog
 
+Suite: nzambi
+RepositoryType: deb
+BaseURI: https://apt.draugeros.org
+MatchURI: apt.draugeros.org
+BaseURI-amd64: https://apt.draugeros.org
+MatchURI-amd64: apt.draugeros.org
+BaseURI-i386: https://apt.draugeros.org
+MatchURI-i386: apt.draugeros.org
+Description: Drauger OS 7.7 Nzambi
+Component: main
+CompDescription: Drauger OS main 7.7 Repo
+CompDescriptionLong: Drauger OS main 7.7 Repo
+
+Suite: nzambi-dev
+RepositoryType: deb
+BaseURI: https://apt.draugeros.org
+MatchURI: apt.draugeros.org
+BaseURI-amd64: https://apt.draugeros.org
+MatchURI-amd64: apt.draugeros.org
+BaseURI-i386: https://apt.draugeros.org
+MatchURI-i386: apt.draugeros.org
+Description: Drauger OS 7.7 Nzambi
+Component: main
+CompDescription: Drauger OS 7.7 Development Repo
+CompDescriptionLong: Drauger OS 7.7 Development Repo
+
+Suite: nzambi-graphics
+RepositoryType: deb
+BaseURI: https://apt.draugeros.org
+MatchURI: apt.draugeros.org
+BaseURI-amd64: https://apt.draugeros.org
+MatchURI-amd64: apt.draugeros.org
+BaseURI-i386: https://apt.draugeros.org
+MatchURI-i386: apt.draugeros.org
+Description: Drauger OS 7.7 Nzambi
+Component: main
+CompDescription: Drauger OS main graphics 7.7 Repo
+CompDescriptionLong: Drauger OS main graphics 7.7 Repo
+
+Suite: nzambi-graphics-dev
+RepositoryType: deb
+BaseURI: https://apt.draugeros.org
+MatchURI: apt.draugeros.org
+BaseURI-amd64: https://apt.draugeros.org
+MatchURI-amd64: apt.draugeros.org
+BaseURI-i386: https://apt.draugeros.org
+MatchURI-i386: apt.draugeros.org
+Description: Drauger OS 7.7 Nzambi
+Component: main
+CompDescription: Drauger OS 7.7 Graphics Development Repo
+CompDescriptionLong: Drauger OS 7.7 Graphics Development Repo
+
 Suite: strigoi
 RepositoryType: deb
 BaseURI: https://apt.draugeros.org

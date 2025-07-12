@@ -1,5 +1,57 @@
 ChangelogURI: http://changelogs.ubuntu.com/changelogs/pool/%s/%s/%s/%s_%s/changelog
 
+Suite: urgal
+RepositoryType: deb
+BaseURI: https://apt.draugeros.org
+MatchURI: apt.draugeros.org
+BaseURI-amd64: https://apt.draugeros.org
+MatchURI-amd64: apt.draugeros.org
+BaseURI-i386: https://apt.draugeros.org
+MatchURI-i386: apt.draugeros.org
+Description: Drauger OS 7.8 Urgal
+Component: main
+CompDescription: Drauger OS main 7.8 Repo
+CompDescriptionLong: Drauger OS main 7.8 Repo
+
+Suite: urgal-dev
+RepositoryType: deb
+BaseURI: https://apt.draugeros.org
+MatchURI: apt.draugeros.org
+BaseURI-amd64: https://apt.draugeros.org
+MatchURI-amd64: apt.draugeros.org
+BaseURI-i386: https://apt.draugeros.org
+MatchURI-i386: apt.draugeros.org
+Description: Drauger OS 7.8 Urgal
+Component: main
+CompDescription: Drauger OS 7.8 Development Repo
+CompDescriptionLong: Drauger OS 7.8 Development Repo
+
+Suite: urgal-graphics
+RepositoryType: deb
+BaseURI: https://apt.draugeros.org
+MatchURI: apt.draugeros.org
+BaseURI-amd64: https://apt.draugeros.org
+MatchURI-amd64: apt.draugeros.org
+BaseURI-i386: https://apt.draugeros.org
+MatchURI-i386: apt.draugeros.org
+Description: Drauger OS 7.8 Urgal
+Component: main
+CompDescription: Drauger OS main graphics 7.8 Repo
+CompDescriptionLong: Drauger OS main graphics 7.8 Repo
+
+Suite: urgal-graphics-dev
+RepositoryType: deb
+BaseURI: https://apt.draugeros.org
+MatchURI: apt.draugeros.org
+BaseURI-amd64: https://apt.draugeros.org
+MatchURI-amd64: apt.draugeros.org
+BaseURI-i386: https://apt.draugeros.org
+MatchURI-i386: apt.draugeros.org
+Description: Drauger OS 7.8 Urgal
+Component: main
+CompDescription: Drauger OS 7.8 Graphics Development Repo
+CompDescriptionLong: Drauger OS 7.8 Graphics Development Repo
+
 Suite: nzambi
 RepositoryType: deb
 BaseURI: https://apt.draugeros.org
